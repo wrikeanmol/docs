@@ -40,11 +40,11 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/openapi.json"
+              "api-reference/introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Endpoint",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
