@@ -40,7 +40,7 @@
           {
             "group": "API Documentation",
             "openapi": [
-              "api-reference/openapi.json"
+              "api-reference/wrike_openapi.yaml"
             ]
           },
           {
