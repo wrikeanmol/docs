@@ -2,6 +2,8 @@ openapi: 3.0.1
 info:
   title: Wrike API
   version: "4.0"
+x-mcp:
+  enabled: true
 servers:
 - url: https://www.wrike.com/api/v4
 paths:
